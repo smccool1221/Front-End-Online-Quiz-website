@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af245336-0bdd-4565-98c7-a8175b21aea3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/layout/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/layout/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/question/AddQuestion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/question/AddQuestion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/question/UpdateQuestion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/question/UpdateQuestion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/quiz/GetAllQuiz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/quiz/GetAllQuiz.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/quiz/Quiz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/quiz/Quiz.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/quiz/QuizResult.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/quiz/QuizResult.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/components/quiz/QuizStepper.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/components/quiz/QuizStepper.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/utils/AnswerOptions.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/utils/AnswerOptions.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/utils/QuizService.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/utils/QuizService.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz-online-client/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/quiz-online-client/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bxo0H2URRraWJGwRyH9fIkgOTZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/student47/dev/labs/quiz-online"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af245336-0bdd-4565-98c7-a8175b21aea3" name="Changes" comment="" />
+      <created>1707165866631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707165866631</updated>
+    </task>
+    <servers />
+  </component>
+</project>
